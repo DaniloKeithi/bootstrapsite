@@ -1,3 +1,2 @@
 # bootstrapsite
 
-danilokeithi.github.io.
